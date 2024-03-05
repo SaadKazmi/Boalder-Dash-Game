@@ -1,3 +1,6 @@
+![Alt Text](https://github.com/SaadKazmi/Boalder-Dash-Game/blob/main/Screenshot%20(55).png)
+
+
 # Boulder Dash Game in Assembly Language
 
 ## Overview
