@@ -37,7 +37,6 @@ This is a simple implementation of the classic Boulder Dash game written in Asse
    - Explore the levels, collect diamonds, and avoid obstacles.
 
 4. **Load Custom Levels:**
-   - Create or modify level files in a specified format (see Level File Format section).
-   - Use command-line options or an in-game menu to load custom levels.
+   - Create or modify level files in a specified format.
 
 
